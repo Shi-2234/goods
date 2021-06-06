@@ -1,0 +1,2 @@
+# goods
+how ti delete
